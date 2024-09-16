@@ -1,5 +1,5 @@
 package meanProgram;
-
+// looks good - Jason Chandler
 import java.util.ArrayList;
 
 public class MeanProgram {
